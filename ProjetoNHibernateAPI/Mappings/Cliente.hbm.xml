@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Projeto_WebAPI_NHibernate.Models.Domain.Entities.Cliente, Projeto_WebAPI_NHibernate" table="cliente">
+    <id name="Id" column="id">
+      <generator class="identity"/>
+    </id>
+    <property name ="Nome" column="nome"/>
+    <property name ="Email" column="email"/>
+    <property name ="Fone" column="fone"/>
+  </class>
+</hibernate-mapping>

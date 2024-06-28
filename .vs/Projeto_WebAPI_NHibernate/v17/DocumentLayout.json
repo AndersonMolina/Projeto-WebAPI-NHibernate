@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\extensions\\nhibernateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\extensions\\nhibernateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\mappings\\cliente.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\mappings\\cliente.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\ioc\\projetonhibernateapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\ioc\\projetonhibernateapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\domain\\contracts\\igenericreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\domain\\contracts\\igenericreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|c:\\users\\ander\\desktop\\teste core\\api\\nhibernate\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E13FEC51-E704-44B0-986D-8C07B3B3DFB8}|ProjetoNHibernateAPI\\ProjetoWebAPI_NHibernate.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nHibernateExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Extensions\\nHibernateExtensions.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Extensions\\nHibernateExtensions.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Extensions\\nHibernateExtensions.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Extensions\\nHibernateExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:01:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:45:12.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:43:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:31:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Program.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:47:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjetoNHibernateAPI.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\IoC\\ProjetoNHibernateAPI.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\IoC\\ProjetoNHibernateAPI.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\IoC\\ProjetoNHibernateAPI.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\IoC\\ProjetoNHibernateAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:48:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "iClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\iClienteRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\iClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\iClienteRepository.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Repositories\\iClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:40:55.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Services\\IClienteService.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Services\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:42:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScriptCliente.sql ",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-25T17:18:44.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.hbm.xml",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Mappings\\Cliente.hbm.xml",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Mappings\\Cliente.hbm.xml",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Mappings\\Cliente.hbm.xml",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Mappings\\Cliente.hbm.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-28T12:10:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:44:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IgenericRepoService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Domain\\Contracts\\IgenericRepoService.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\Models\\Domain\\Contracts\\IgenericRepoService.cs",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\Models\\Domain\\Contracts\\IgenericRepoService.cs",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\Models\\Domain\\Contracts\\IgenericRepoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:38:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoNHibernateAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ander\\Desktop\\Teste Core\\API\\NHibernate\\ProjetoNHibernateAPI\\ProjetoNHibernateAPI\\appsettings.json",
+              "RelativeToolTip": "ProjetoNHibernateAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T12:40:49.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
